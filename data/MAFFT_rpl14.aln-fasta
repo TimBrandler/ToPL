@@ -1,0 +1,440 @@
+>ref|Bryopsis plumosa rpl14
+------------------MIQSQTYLNVADNTGARQIMCIRILNC-GARKFAKIGDIIIG
+VVKQ--STPNMPIKKSEIVRAVIVRTCKPFRRKNGFLIQFDDNAAVIVNKEGTPRGTRIF
+GPVARELRDSDF---MKIISLAPEV-----------------------------------
+----------------------------------------------L
+>ref|Ostreobium quekettii rpl14
+------------------MIQPQSYLNVADNTGARKLMCIRVINK-NKLQLANIGMVIIA
+VVKE--ALPNMSIKKSDIVRAVIVRTSKKIRRHNGMSIRFDDNAAVLINKDGLPMGTRIF
+GPVARELRDKNF---TKIVSLAPEV-----------------------------------
+----------------------------------------------L
+>ref|Zea mays rpl14
+------------------MIQPQTLLNVADNSGARKLMCIRVIGAAGNQRYARIGDVIIA
+VIKD--AVPQMPLERSEVIRAVIVRTRKEFKGDDGIIIRYDDNAAVIIDQKGNPKGTRVF
+GAVAEELRELNL---TKIVSLAPEV-----------------------------------
+----------------------------------------------L
+>ref|Arabidopsis thaliana rpl14
+------------------MIQPQTYLNVADNSGARELMCIRIIGA-SNRRYAHIGDVIVA
+VIKE--AIPNTPLERSEVIRAVIVRTCKELKRNNGTIIRYDDNAAVVIDQEGNPKGTRVF
+GAIPRELRQLNF---TKIVSLAPEV-----------------------------------
+----------------------------------------------L
+>ref|Pinus sylvestris rpl14
+------------------MIQSQTYLNIADNSGARKIMCIRVLGA-SNRKCAHIGDVIIA
+IIKE--AVPNMPLEKSEVVRAVVIRTCKEFERDNGMMIRSDDNAAVVIDQEGNPKGTRVF
+GPVAQELRQLNF---TKIVSLAPEV-----------------------------------
+----------------------------------------------L
+>ref|Porphyra_purpurea rpl14
+------------------MIQTQSYLNVADNSGARKIMCIRVLGT-SNPSYASIGDVIIG
+VVKD--ASPNMPVKRSDVVRAVVVRTRKALRRNDGMSIRFDDNAAVIINQDNNPRGTRVF
+GPIARELRDKNF---SKIISLAPEV-----------------------------------
+----------------------------------------------V
+>ref|Porphyra_umbilicalis rpl14
+------------------MIQTQSYLNVADNSGARKIMCIRVLGT-SNPSYASIGDVIIG
+VVKD--ASPNMPVKRSDVVRAVVVRTRKALRRIDGMSIRFDDNAAVIINQDNNPRGTRVF
+GPIARELRDKNF---SKIVSLAPEV-----------------------------------
+----------------------------------------------I
+>ref|Wildemania schizophylla rpl14
+------------------MIQTQSYLNVADNSGAKKIMCVRVLGT-SNPSYASIGDVIIG
+VVKD--ASPNMPIKRSDLVRAVVVRTRKALRRTDGMSIRFGDNAAVVINQDNNPRGTRVF
+GPIARELRDKNF---SKIVSLAPEV-----------------------------------
+----------------------------------------------V
+>ref|Neopyropia yezoensis rpl14
+------------------MIQTQSYLNVADNSGARKIMCIRVLGT-SNPSYASIGDVIIG
+VVKD--ASPNMPVKRSDVVRAVVVRTRKALRRTDGMSIRFGDNAAVIINQDNNPRGTRVF
+GPIARELRDKNF---SKIVSLAPEV-----------------------------------
+----------------------------------------------V
+>ref|Bangia fuscopurpurea rpl14
+------------------MIQTQSFLNVADNSGARKIMCIRVLGT-SNPSYASIGDVIIG
+VVKD--ASPNMPVKRSDIVRAVIVRTRKALRRTDGMSIRFDDNAAVIINQDNNPRGTRVF
+GPIARELRDKSF---SKIVSLAPEV-----------------------------------
+----------------------------------------------V
+>ref|Ahnfeltia plicata rpl14
+------------------MIQTQTYLNVADNSGARKIMCIRVLGS-SNPSYANIGDIIIG
+VVKD--ASPNMPVKRSDVIRAVIVRTRKTLRRIDGMSIRFDDNAAVLINQENNPRGTRVF
+GPIARELRDKNF---TKIISLAPEV-----------------------------------
+----------------------------------------------V
+>ref|Halymenia maculata rpl14
+------------------MIQTQSYLNVADNSGARKIMCIRVLGT-SNPTYASIGDIIIG
+VVKD--ASPNMPIKRSDIVRAVIVRTKKTFRRSDGMSIRFDDNAAVIINQENNPRGTRVF
+GPIARELREKNF---SKIISLAPEV-----------------------------------
+----------------------------------------------V
+>ref|Rhodymenia pseudopalmata rpl14
+------------------MIQTQSYLNIADNSGVRKIMCIRVLGT-NNPLYASVGDVIVG
+VVKD--ASPNMSIKKSDIVRAVIVRAKKTLRRSDGMSIRFDDNAAVIINQENNPRGTRVF
+GPIARELRDKNF---SKIISLAPEV-----------------------------------
+----------------------------------------------V
+>ref|Palmaria palmata rpl14
+------------------MIQTQSYLNIADNTGARKIMCIRVLGT-SNPSYASIGDIIIG
+VVKD--ASPNMGVKRSDVVRAVIVRTKQAIRRIDGMSIRFDDNAAVIINPENNPRGTRVF
+GPIARELRDKNF---SKIISLAPEV-----------------------------------
+----------------------------------------------V
+>ref|Dasya naccarioides rpl14
+------------------MIQTQSYLNIADNSGARKIMCIRVLGS-SNPNYAYIGDIIIG
+VVKE--ALPNMPIKRSDIVRAVIVRTKKTLRRADGMSIRFDDNAAVIINKENNPRGTRVF
+GPIAKELREKNF---SKIISLAPEV-----------------------------------
+----------------------------------------------V
+>gb|Rhodogorgon sp rpl14
+------------------MIQNQSYLNIADNSGARKIMCIRVLGS-SNPNYARIGDIIIG
+VVKE--ASPNMPIKRSDIVRAVIVRTKKTIRRVDGMSIRFDDNAAVLINQENNPKGTRVF
+GPIGRELRDKNF---SKIISLAPEV-----------------------------------
+----------------------------------------------V
+>ref|Gracilaria_changii rpl14
+------------------MIQTQSYLNIADNSGARKIMCIQILGS-NNPSYAGIGDIIIG
+VVKD--ALPNMPIKKSDIIRAVIVRTRKAIRRNDGMSIRFDDNAAVIINQENNPRGTRVF
+GPIAKELRDKNF---SKIISLAPEV-----------------------------------
+----------------------------------------------V
+>ref|Gracilaria_vermiculophylla rpl14
+------------------MIQTQSYLNIADNSGARKIMCIQVLGS-NNPRYAGIGDIIIG
+VVKD--ALPNMPIKKSDIIRAVIVRTKKTVRRDDGMSIRFDDNAAVIINQENNPRGTRVF
+GPIAKELRDKNF---SKIISLAPEV-----------------------------------
+----------------------------------------------V
+>gb|Corallina_officinalis rpl14
+------------------MIQNQSYLNIADNSGARKIMCIRVLGS-SNPKYAKIGDIIIG
+VVKD--ASPNMTVKRSDIVRAVIVRTKKTTRRIDGMQIRFDDNAAVLITQDNNPKGTRIF
+GPIARELREKNF---SKIISLASEV-----------------------------------
+----------------------------------------------V
+>ref|Corallina_chilensis rpl14
+------------------MIQNQSYLNIADNSGARKIMCIRVLGS-SNPKYAKIGDIIIG
+VVKD--ASPNMTVKRSDIVRAVIVRTKKTTRRIDGMQIRFDDNAAVLITQDNNPKGTRIF
+GPIARELREKNF---SKIISLASEV-----------------------------------
+----------------------------------------------V
+>ref|Synarthrophyton patena rpl14
+------------------MIQNQSYLNVADNSGARKIMCIRVLGS-SNPKYAKIGDVVIG
+VVKD--ASPNMPVKKSDVVRAVIVRTRKTLRRIDGMQIRFDDNAAVLITQENNPKGTRIF
+GPIARELRDKNF---SKIISLATEV-----------------------------------
+----------------------------------------------V
+>ref|Porphyridium purpureum rpl14
+------------------MIQPQTYLNVADNSGARNIMCIRVLGT-SNPSYASIGDIIIG
+VVKD--ASPNMAIKKSDVVRAVVVRTKKTLRRKDGMSIRFDDNAAVIINQENNPRGTRVF
+GPIARELRERNF---TKIISLAPEV-----------------------------------
+----------------------------------------------I
+>ref|Compsopogon caeruleus rpl14
+MILSLDKVLVFSIVGKVIMIQPQTCLNVADNSGARKLMCIRVLGT-SNPSYASIGDIIIG
+VVKD--ATPNMIVKRSDVVRAVIVRTKKTLRRKDGMSIRFDDNAVVIINQDNNPRGTRVF
+GPIARELRDHNF---AKIISLAPEV-----------------------------------
+----------------------------------------------V
+>ref|Boldia erythrosiphon rpl14
+------------------MIQPQTSLNVADNSGARKLMCIRVLGS-SNPSYASIGDIIIG
+VVKD--ASPNMIVKKSDVVRAVVVRTKKTLKRKDGMSIRFDDNAVVIINQENNPRGTRVF
+GPIARELREYSF---SKIISLAPEV-----------------------------------
+----------------------------------------------V
+>ref|Erythrotrichia carnea rpl14
+------------------MIQPQSYLNVADNSGARKLMCIRVLGS-SNPSYASIGDVIIG
+VVKD--ASPNMLIKRSDVVRAVVVRTKKTLRRNDGISIRFDDNAAVIINQENNPRGTRVF
+GPIARELRDNNF---LKIVSLAPEV-----------------------------------
+----------------------------------------------V
+>gb|Rhodochaete parvula rpl14
+------------------MIQPQTCLNVADNSGARKLMCIRVLGS-SNPLYASIGDVIIG
+VVKD--ASPNMLVKRSDVVRAVIVRTKKTLRRRDGISIRFDDNAAVIINKDNNPRGTRVF
+GPIAKELRDNNF---LKIVSLAPEV-----------------------------------
+----------------------------------------------V
+>ref|Ceramium japonicum rpl14
+------------------MIQSQSYLNVADNSGARKIMCIQVLGS-SNPKYATIGDVIIG
+VVKD--ASPNMSVKRSDIVRAVIVRTKKTIRRHDGMNIRFDDNAAVVINKENNPRGTRVF
+GPIAKELRDKNF---SKIISLAPEV-----------------------------------
+----------------------------------------------V
+>ref|Gelidium vagum rpl14
+------------------MIQTQSYLNIADNSGARRIMCIQVLGS-SNPKYAYLGDIIIG
+VVKD--ASPNMPIKKSDIVRAVVVRTRKTSRREDGMSIRFNDNAAIIINQENNPRGTRVF
+GPIARELRDKYF---SKIISLAPEV-----------------------------------
+----------------------------------------------V
+>ref|Sporolithon durum rpl14
+------------------MIQNQSHLNIADNSGARKIMCIQVLGS-SNPKYARVGDIIIG
+VVKD--ASPNMNIKRSDIVRAVIVRTKQTMHRIDGISIRFDDNAAVIINQENNPRGTRVF
+GPIARELREKNF---SKIISLAPEV-----------------------------------
+----------------------------------------------V
+>ref|Rhodella violacea rpl14
+------------------MIQNQTYLNVADNSGAKKIMCIRVLGS-GNPSYAHIGDVIIG
+VVKD--ASPNMVIKRSDVVRAVVVRTKKTLRRKDGMSIRFDDNAAVIINQDNNPRGTRVF
+GPIAKELRDKNF---LKIISLAQEV-----------------------------------
+----------------------------------------------I
+>ref|Chondrus crispus rpl14
+------------------MIQNQSYLTVADNSGAKKIMCIRVLGT-SNPHYASLGDIIIG
+VVKD--ALPNMPIKKSDIIRAVIVRTKKTLRRKDGMSVRFDENAAVIINQDNNPRGTRVF
+GPIARELRDKNF---SKIISLATEV-----------------------------------
+----------------------------------------------V
+>ref|Cryptomonas curvata rpl14
+------------------MIQTQTYLNVADNSGAKKIMCIKVLG--SNRRYASIGDVIIG
+VVKD--ASPNMPVKRSDVVRAVVMRTKKTIRRSDGMSIRFDDNAVVIINKENNPRGTRVF
+GPIARELRDKDF---SKIVSLAPEV-----------------------------------
+----------------------------------------------L
+>ref|Guillardia theta rpl14
+------------------MIQTQTYLTVADNSGAKKIMCIRILG--GNRKYASIGDVIIG
+VVKD--ATPNMPVKRSDVVRAVIMRTKNTIRRKDGMSIRFDDNAAVIINKENNPRGTRVF
+GPIARELRDKDF---TKIVSLAPEV-----------------------------------
+----------------------------------------------L
+>ref|Mallomonas splendens rpl14
+------------------MIQPQTYLTIADNTGAKKLMCIRVLG--NNRKYANVGDIIIG
+VVKE--ALPNMAVKRSNVVRAVIVRTKNTIRRTDGMAIRFDDNAAVIVNVENNPKGTRVF
+GPVAREIREKNF---TKIISLASEV-----------------------------------
+----------------------------------------------V
+>ref|Triparma laevis rpl14
+------------------MIQPQTVLTVADNTGARKIMCIRVLG--GNKKYASVGDTIIG
+VVKE--SIPNMPVKRSDIVRAIIVRTRKTIRRNDGMFIRFDDNAAVIVNPDSNPKGTRVF
+GPVAREIRDKNF---SKIVSLAPEV-----------------------------------
+----------------------------------------------L
+>ref|Ulnaria acus rpl14
+------------------MIYPQTMLTVADNTGAKKIMCIRVLG--GNKKYAEIGDTIIA
+VVKE--AIPNMPVKRSDVVRAVVVRTCKSIRRSDGMYIRFDDNAGVIVNMDNNPRGTRVF
+GPVAREIRDKNL---SKIVSLAPEV-----------------------------------
+----------------------------------------------L
+>ref|Pseudo-nitzschia_delicatissima rpl14
+------------------MIYPQTILTVADNTGAKKVMCIRILG--GNKKYAEIGDTIIA
+VVKE--AIPNMPIKRSDVVKAIIVRTKKTIRRQDGMYIRFDDNAAVIVNPENNPRGTRVF
+GPVAREIRDKNL---SKIVSLAPEV-----------------------------------
+----------------------------------------------L
+>ref|Pseudo-nitzschia_pungens rpl14
+------------------MIYPQTILTVADNTGAKKVMCIRILG--GNKKYAEIGDTIIA
+VVKE--AIPNMPIKRSDVVRAVIVRTKKTIRRPDGMYIRFDDNAAVIVNPENNPRGTRVF
+GPVAREIRDKNL---SKIVSLAPEV-----------------------------------
+----------------------------------------------L
+>ref|Conticribra weissflogii rpl14
+------------------MIYPQTMLTVADNTGAKKIMCIRVLG--GNRKYGKIGDTIIG
+VVKE--AIPNMPIKKSNVVRAVIVRTSKTIRRSDGMYIRFDDNAAVIVNTENNPRGTRVF
+GPVAREIRDKNF---SKIVSLAPEV-----------------------------------
+----------------------------------------------L
+>ref|Thalassiosira pseudonana rpl14
+------------------MIYPQTMLTVADNTGAKKIMCIRVLG--GNRKYGKIGDTIIG
+VVKE--AIPNMPIKKSDVVRAIIVRTSKTIRRADGMYIRFDDNAAVIVNMENNPRGTRVF
+GPVAREIRDKNF---SKIVSLAPEV-----------------------------------
+----------------------------------------------L
+>gb|Gronococcus sybilensis rpl14
+------------------MIQLQTRLKVADNSGARQIMCIQVLG--GNKNYARLGDVIIG
+VVKD--ASPNMTIKRSDIIRAVIVRTKKNIQRSDGMSIRFDDNAVVVINQENNPRGTRVF
+GPIARELRDKNF---TKIISLAPEV-----------------------------------
+----------------------------------------------I
+>ref|Stylonema alsidii rpl14
+------------------MIQVQSCLNVADNSGAKKLMCIQVLGT-GNPSHAKIGNVIIG
+VVKE--ATPNMTVKRSDVVRAVIVRTRKTIQRPDGMSIRFDDNAAVIINQENNPRGTRIF
+GPIAKELRDKNF---SKIVSLAPEV-----------------------------------
+----------------------------------------------I
+>ref|Chroodactylon ornatum rpl14
+------------------MIQVQTCLNVADNSGARKLMCIQVLGT-GNPSHAKIGNIIIG
+VVKE--ANPNMTVKRSDVVRAVVVRTKKTIQRSDGMSIRFDENAAVIINQDNNPRGTRIF
+GPIAKELREKSF---SKIVSLAPEV-----------------------------------
+----------------------------------------------I
+>ref|Isochrysis galbana rpl14
+------------------MIQPQTCLNVADNSGAKKLMCIRVLG--TNRRYGHVGDVIIG
+VVKD--ATPNLTVKRSDVVRAVIVRTKQSVRRKDGSRLRFDDNASVIINKENNPRGTRVF
+GPIARELKDNGF---TKIVSLAPEV-----------------------------------
+----------------------------------------------L
+>ref|Emiliania huxleyi rpl14
+------------------MIQPQTCLNVADNSGAKKLMCIRVLG--TNRRYGHVGDVIIG
+VVKD--ATPNLTVKRSDVVRAVIVRTKQSIRRKDGSRLRFDDNATVIINKENNPRGTRVF
+GPIARELKDNGF---TKIVSLAPEV-----------------------------------
+----------------------------------------------L
+>ref|Laminaria digitata rpl14
+------------------MIQPQTYLTVADNTGAKKIMCIRVLG--GRRKYAKLGDIIIG
+VVKE--ATPNMLTKRSDIVKAVVIRTKKAVSRKDGTSISFDDNAAVIINMDKNPKGTRIF
+GPIAREIRDKDF---TKIVSLAPEV-----------------------------------
+----------------------------------------------I
+>ref|Fucus vesiculosus rpl14
+------------------MIQPQTYLTVADNTGAKKIMCIRVIG--GRRKYATLGDIIIG
+VVKE--ATPNMLTKRSDIVKAVVIRTKKSVLRKDGTSICFDDNAAVIINLDKNPKGTRIF
+GPIAREIRDKDF---TKIVSLAPEV-----------------------------------
+----------------------------------------------I
+>ref|Dictyopteris divaricata rpl14
+------------------MIQAQTFLTVADNTGAKKIMCIRVLG--GRRQYATLGDIIIG
+VVKE--ALPNMATKRSEIVKAVVIRTKKTVSRKDGTNIRFDDNAAVIINNDKNPKGTRIF
+GPIAREIRDKDF---TKIVSLAPEV-----------------------------------
+----------------------------------------------I
+>ref|Auxenochlorella protothecoides rpl14
+------------------MIQPQSYLRVADNTGAREIMCIRVLSG-AKQQAAGIGDIIIA
+VVKD--AAPNMLIKKSDVVRAVIVRTRKNVRRKNGTSIRFDENAAVIINKESNPRGTRVF
+GPVARELRDGNF---TKIISLAPEV-----------------------------------
+----------------------------------------------L
+>gb|Chlorella vulgaris rpl14
+------------------MIQPQTYLRVADNTGARELMCIRVLGG-GKQRAATVGDIIIA
+VVKD--ATPNMPVKRSDIVRAVIVRTRKNVRRVNGTSIRFDENAAVIINKENNPRGTRVF
+GPVARELRDGNF---TKIISLAPEV-----------------------------------
+----------------------------------------------L
+>gb|Prasinoderma coloniale rpl14
+------------------MIQAQSYLNVADNSGARKIMCIRVLIG-SRRKYAKIGDTIIG
+VVKE--ATPNMPIKRSDIVRAVVVRTRKAVRRDSGMLLRFDDNAAVIINKDGNPCGTRVF
+GPVARELREQNF---TKIVSLAPEV-----------------------------------
+----------------------------------------------L
+>ref|Mesostigma viride rpl14
+------------------MIQAQSYLNVADNSGAKKIMCIRVLGG-SQRKYAAIGDVIIG
+VVKD--SVPNMSLKKSEVVRAVVVRTCKGIRRENGMTIRFDDNAAVVINKDGNPKGTRVF
+GPVARELRDRNF---TKIVSLAPEV-----------------------------------
+----------------------------------------------L
+>ref|Tetraselmis suecica rpl14
+------------------MIQPQSYLNVADNSGARKLMCIRVLGG-SHKQSANIGDVIIA
+VVKE--ALPNMPLKKSDVIRAVIVRTRSGVKRRNGMFIRFNDNAAVVINKEGNPRGTRVF
+GPVARELRDRSF---AKIVSLAPEV-----------------------------------
+----------------------------------------------L
+>ref|Cymbomonas tetramitiformis rpl14
+------------------MIQTQTYLNVADNSGARKLMCIQVLG--DNGQYATIGDIIVA
+VVKD--ALPNMPLKKSDVVRAVVVRTVKGLRRENGMSIRFDDNAAVIINKDGNPRGTRVF
+GPIARELRDRDF---TKIVSLAPEV-----------------------------------
+----------------------------------------------L
+>ref|Pyramimonas parkeae rpl14
+------------------MIQTQSYLSVADNSGARKLMCIQVLGG-NNRQYANIGDIIVA
+VVKD--AIPNMPLKKSDVVRAVIVRTRKGLRRENGMSIRFDDNAAVIINKEGNPRGTRVF
+GPIARELRDRNF---TKIVSLAPEV-----------------------------------
+----------------------------------------------L
+>ref|Pleodorina starrii rpl14
+------------------MIKPLSYLNVADNSGARELMCIRALGG-SYRESANIGDVIIA
+VVKD--ALPNMPVKRSDIVRAVIVRTRKGIRRENGMSIRFDDNAAVIINKEGNPRGTRVF
+GPIARELRDKNF---TKIVSLAPEV-----------------------------------
+----------------------------------------------L
+>ref|Chlamydomonas reinhardtii rpl14
+------------------MIKPLSYLNVADNSGARELMCIRALGG-SYRESANIGDVIIA
+VVKD--ALPNMPVKRSDIVRAVIVRTRKGIRRENGMAIRFDDNAAVIINKEGNPRGTRVF
+GPIARELRDKNF---TKIVSLAPEV-----------------------------------
+----------------------------------------------L
+>ref|Pediastrum duplex rpl14
+------------------MIKPQSYLNVADNSGARKLMCIRVLGG-G-RQTAGIGDVIIA
+VVKD--ALPNMPLKKSDVIRAVIVRTTKGVRRENGMMLRFDDNAAVVINKEGNPRGTRVF
+GPIARELRERDF---TKIVSLAPEV-----------------------------------
+----------------------------------------------V
+>ref|Desmodesmus abundans rpl14
+------------------MIQTLSYLNVADNSGARKLMCIRVLG--GRRQTATIGDIIIA
+VVKD--ALPNMPVKKSDVVRAVVVRTKKGICRENGMMIRFDENAAVVINKEGNPRGTRVF
+GPIARELRDKNF---SKIVSLAPEV-----------------------------------
+----------------------------------------------L
+>ref|Spirogyra maxima rpl14
+------------------MIQPQSYLNVADNSGARKLMCIRVLGS-NNRKYANIGDMIIA
+VVKE--AVPNMPLKRSEVIRAVIVRTRKGLKRDNGMILRFDDNAAVVINTEGNPRGTRVF
+GPVARELRELNF---TKIVSLAPEV-----------------------------------
+----------------------------------------------L
+>Cyanobacteriota bacterium rpl14
+------------------MIQPQTYLNVADNSGARKLMCIRVLGG-GNRRYGGVGDVIIA
+VVKD--AIPNMAVKKSDVVRAVIVRTRKGLRRDSGMSIRFDDNAAVIINVDGNPKGTRVF
+GPVARELRDKNF---TKIVSLAPEV-----------------------------------
+----------------------------------------------L
+>ref|Glaucocystis incrassata rpl14
+------------------MIQAQSYLNAADNSGARKLMCIRVLGG-SNRRYAGIGDVIIA
+VVKD--ATPNMPVKRSDTVRAVIVRTKKGLQRNNGMGIRFDDNAAVIINTDGNPKGTRVF
+GPVARELRDKNF---TKIISLAPEV-----------------------------------
+----------------------------------------------I
+>Lyngbya confervoides rpl14
+------------------MIQQESYLTVADNSGAKKLLCIRVIGG-GNRTYGGVGDIVIA
+TVKD--AIPNMPVKKSDVVRAVIVRTKKAIRRESGMTISFDDNAAVLINADGNPRGTRVF
+GPVARELRDRNF---TKIVSLAPEV-----------------------------------
+----------------------------------------------L
+>ref|Cyanophora paradoxa rpl14
+------------------MIQPQSYLTAADNSGARKLMCIRVLGG-GNRRYARIGDVIVA
+VVKD--GIPNIPIKKSDTVKAVIVRTRKELKRDNGMNICFDDNAAVIINADGNPRGTRVF
+GPVARELRDKNF---TKIISLAPEV-----------------------------------
+----------------------------------------------L
+>ref|Gloeochaete wittrockiana rpl14
+------------------MIQPQSYLIAADNSGARKLMCIRVLGS-SNKRYAEVGDTIIA
+VVKE--ATPNMTIKKSDVVRAVIVRTRKTIHRSTGMVLRFDDNAAVIINVDGNPKGTRVF
+GPVARELRDKNF---TKILSLAPEV-----------------------------------
+----------------------------------------------V
+>ref|Chara vulgaris rpl14
+------------------MIQTQSFLNVADNSGARKLMCIRILNS-SNCKYANIGDTIIA
+VVKE--AIPNMSIKKSEIVKAVVVRTRKGIKRQSGITIRFDDNAAVIINQDGNPRGTRVF
+GPVARELREENF---TKIVSLAPEV-----------------------------------
+----------------------------------------------L
+>ref|Monomorphina aenigmatica rpl14
+------------------MIQLQTYLNVADNTGAQKVMCIRILG--SNRQYANIGDVIIA
+VVKD--SIPNMVVKRSNVVRAVIVRTTKGLRRESGMLIRFDENAVVLINPDGSPKGTRVF
+GPIARELRDKGF---LKIISLAPEV-----------------------------------
+----------------------------------------------L
+>ref|Euglena_viridis rpl14
+------------------MIQPQTYLTVADNTGAQKIMCIKILG--SNRQYASIGDIIVA
+VVKE--AVPNMATKKSDVVKAVVVRTSKGLRRESGMMIRFDENAAVIVNADGSPKGTRVF
+GPIARELRDKNF---LKIISLAPEV-----------------------------------
+----------------------------------------------L
+>ref|Euglena_gracilis rpl14
+------------------MIKPQTYLKIADNTGAQKIMCIRILG--PNCQYANIGDIIIA
+VVKE--AIPNMVVKKSDIVKAVIVRTVKGVRRESGMAIRFDENAAVIINNDRSPKGTRIF
+GPIARELREKEF---VKIMSLAPEV-----------------------------------
+----------------------------------------------V
+>ref|Pedinomonas_tuberculata rpl14
+------------------MIQPQTYLNVADNTGAKQIMCIRVLGS-AS---ARIGDTIIA
+VVKE--ALPNMPVKKSEVVTAVVVRTKNGTQRSNGSYIRFDENAAVIITKEGNPRGSRVF
+GPVARELRDKNF---SKIVSLAPEV-----------------------------------
+----------------------------------------------I
+>ref|Pedinomonas_minor rpl14
+------------------MIQPQSYLNVADNTGAKELMCIRVLGS-GT---AGIGDTIIA
+VVKE--ALPNMPVKRSEVVTAVVVRTRHGVQRANGSYIRFDENAAVIINKEGNPRGSRVF
+GPVARELRDKNF---SKIVSLAPEV-----------------------------------
+----------------------------------------------I
+>gb|Prasinococcus sp.CCMP1194 rpl14
+------------------MIQPQSYLAVADNSGAKKIMCIRVLEN-KNHAYGQIGSVIIG
+VVKE--ALPNMPIKKSDIIRAVIVRTCKPLRRENGMLIQFDENAAVLINKEGNPRGTRVF
+GPIARELRDYNF---TKIISLAPEV-----------------------------------
+----------------------------------------------L
+>Prochlorococcus marinus rpl14
+------------------MIQQESYLTVADNSGARRLQCIRVLG--SNRRYAHVGDVIVA
+AVKD--AVPNMGVKKSDVVKAVVVRTKATLRRNSGNSIRFDDNAAVLINEDKNPRGTRVF
+GPVARELRERNF---TKIVSLAPEV-----------------------------------
+----------------------------------------------I
+>ref|Partenskyella glossopodia rpl14
+------------------MVQPQSLVKVVDNSGAKEIICIRILGK-GRNQVSNIGDIIIA
+VVKE--AIPNTVLKKSDIVRAVIVRTKKGLKRKNGIYVRFDDNAAVIVNKENIPKGTRIF
+GPVARELRDQNF---MKIVSLAPEV-----------------------------------
+----------------------------------------------I
+>ref|Bigelowiella natans rpl14
+------------------MVQPQSRVKVVDNSGAKEIVCIRVLGK-GRNQLSNIGDIIIG
+VVKE--AIPNTPLKKSDIVRAVVVRTRKGLKRKNGIYIRFDDNAAVIVNKENNPRGTRIF
+GPVARELRDKSF---MKIVSLAPEV-----------------------------------
+----------------------------------------------I
+>ref|Lotharella vacuolata rpl14
+------------------MIQPQSNIKVVDNSGAKRLICIRVLGK-GKNQVSNIGDIIIG
+VVKE--ASPNMLLKKSDIVRAVIVRTRKGIYRKNGIKLCFDDNAAVIVNKDNNPRGTRIF
+GPVARELREKNF---MKIISLAPEV-----------------------------------
+----------------------------------------------V
+>ref|Dryopteris decipiens rpl14
+------------------MIQTQSYSDVADNSGARKSMCIRVLGT-GNRRYAGTGDVVVA
+VVKE--AVPNMSLKRSEVVRAVAACTRKGIRRCNGMIVGFDDNAAVVVNQEGNPRGTRIF
+GPVARELRDYNF---ARVVSLAPEV-----------------------------------
+----------------------------------------------L
+>ref|Aneura pinguis rpl14
+------------------MIQPQTHSNVADNSGAQKLMCIRVTGT-NDREYAGIGDVIIA
+VVKE--AVPNMPTKKSEIVRAVIVRTRKEIGRTDGSVIEFDDNAAVTINRENNPRGTRVF
+GPIARELRGSNF---TKIISLATEV-----------------------------------
+----------------------------------------------L
+>gb|Cyanidioschyzon merolae rpl14
+------------------MIQVQTRLKVADNTGAKEVMCIRVLKA-S---TATLGDVIIV
+VVKE--ALPNMMVKKSQIFRAVVVRTKQAVRRANGMHIRFDENAVVLIDQENNPKGTRVF
+GPIARELREANF---MKIVSLAPEV-----------------------------------
+----------------------------------------------I
+>ref|Cyanidium caldarium rpl14
+------------------MISVHTRLKVIDNSGGKEIMCIRVLG--TNRKYATLGDVIIG
+VVKN--AVPNMPVKKSDVVRAVVVRIKKTINRKNFFSVRFDDNAAVIIGSDGNPKGTRIF
+GPVARELRDKNF---SKIASLAQEV-----------------------------------
+----------------------------------------------V
+>dbj|Halimeda borneensis rpl14
+------------------MIQPQSCVNVADNTGARKIMCIRVLNG-SRKQKARLGDVFLG
+VVKE--ALPNMPVHKSDIVRAVLVRTSKEVRRANGMTIRFDENAAVLINKEGLPRGTRIF
+GAVPRELRGQPYGLPMKILSLASQV-----------------------------------
+----------------------------------------------V
+>dbj|Nitzschia putrida rpl14
+------------------MIYPQTILNIADNTGVKKIMCIRVLG--DSKKYAKLGDIIVG
+VVKE---STNKLIKKSEIVHAVIVRTKKTTNRYDGTYIRFDDNAAVIINSDKNPKGSRIL
+GPIAYEIRKKNF---SKLISLASDI-----------------------------------
+----------------------------------------------L
+>ref|Lepidodinium chlorophorum rpl14
+------------------MVQLQTYLTVADNTGARELICIRVLGS----YSAKLGDTIMA
+VVKA--SLPNMSVSRSEVVRAVVVRTRKRLFRSDGIQIRFNQNARVILNKQDNPRGSRIF
+GPVSREVRYKNF---TKIISLAPEVVLFYETAIEKSLSKIDWYKVETLSEVFEYYEYSPN
+SKNKKNCYQSKGRCTIFENGRNFAIGIVLYLGTKWYDYSFAKFCSWI
+>ref|Chromerida sp.RM11 rpl14
+------------------MVQKQTRLLVTDNSGAKQILCIGIIS--SKGKTATVGDVILG
+VVKN--SYPDMPVKKSDLVKAVVVRTKKPINRPDGSQLYFSDNAAVVVNNNYDPVGSRIF
+GPVAREVRDKKM---LKLISLAEEV-----------------------------------
+----------------------------------------------L
+>ref|Chromera velia rpl14
+------------------MIMVNTILKVADNSGALRVKCIGLF---NNKKRAEVGDVITT
+VVLKSYAQSKAKIKTSSIVKGVVVRTRKKQKRKNNVYVKFEDNAIVVIDDRKNPIGTRIF
+GAVASELRGKDF---ARIISLAPDI-----------------------------------
+----------------------------------------------I
+>gb|Haemoproteus columbae rpl14
+------------------MIFLNSILDVIDNSGILKFKYINNL---NKHKYPKYGDILIG
+VVYK--LLNNNLYKKSDKCKGILVQQKNFLNLKRYYSIKFNKNAVIILNNNLITVGTKSN
+YYILKYLKYKLN---INLKKLKIKF-----------------------------------
+----------------------------------------------I
+>ref|Leucocytozoon caulleryi rpl14
+------------------MIFLNCILDVIDNSGVLKFKYINNL---NKNKYPKYGDILIG
+IVYK--LYNNNLYKKSDKCKGILVQMKTFLNFKKYYALKFSKNAVLILNDNLSCIGTKSN
+YYISKYLKKYNN---INFKKLNLKF-----------------------------------
+----------------------------------------------I
+>ref|Plasmodium malariae rpl14
+-------------------MYINSILDVIDNSGILKFKYINSL---NKYMNLKYGDILIG
+VVYK--LYSNNLYKKSDKCKGILVQWKNFLNLKLYYSIKFNKNAVIILNNNLNSVGTKSN
+NYVLKYIKYRTD---INLKKLKLKY-----------------------------------
+----------------------------------------------I
