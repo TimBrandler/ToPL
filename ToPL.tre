@@ -1,0 +1,21 @@
+# Newick string for the ToPL
+(
+(Lyngbya_confervoides, 
+(Cyanobacterion_bacterium, Prochlorococcus marinus)),
+(
+(Cyanophora_paradoxa, 
+(Glaucocystis_incrassata, Gloechaete_wittrockiana)), 
+(
+((Cyanidioschyzon_merolae, (Cyanidium_caldarium, Gronococcus_sybilensis)),
+((PCS), 
+((((Porphyra_purpurea, Porphyra_umbilicalis),Neopyropia_yezoensis),
+(Bangia_fuscopurpurea, Wildemania_schizophylla)),
+(Forideo)))), 
+(((Prasinococcus_sp, Prasinoderma_coloniale), 
+((Pyramimonas_parkae, Cymbomonas_tetramitiformis), 
+((Pedinomonas_minor, Pedinomonas_tuberculata), (CC) ) )), 
+(Mesostigma_viride, (Chara_vulgaris, (Spirogyra_maxima, 
+(Aneura_pinguinis, (Dryopteris_decipiens, (Pinus_sylvestris, (Zea_mays, Arabidopsis_thaliania)))))))) 
+)
+)
+)
