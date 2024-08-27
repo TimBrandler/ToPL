@@ -1,11 +1,11 @@
 #NEXUS
 begin sets;
-charset part1=1-502;
-charset part2=503-975;
-charset part3=976-1383;
-charset part4=1384-1891;
-charset part5=1892-2349;
-charset part6=2350-2504;
-charset part7=2505-2779;
-charset part8=2780-2972;
+charset part1=1-502;      
+charset part2=503-975;    
+charset part3=976-1383;  
+charset part4=1384-1891;  
+charset part5=1892-2349;  
+charset part6=2350-2504;  
+charset part7=2505-2779;  
+charset part8=2780-3018;
 end;

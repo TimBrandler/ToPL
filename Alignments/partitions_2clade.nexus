@@ -1,0 +1,7 @@
+#NEXUS
+begin sets;
+charset part1=503-975;    
+charset part2=2350-2504;  
+charset part3=2505-2779;  
+charset part4=2780-3018;  
+end;

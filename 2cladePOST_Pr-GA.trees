@@ -1,0 +1,37 @@
+   102  1
+(((((((((((Ahnfeltia_plicata,(((((Ceramium_japonicum,Dasya_naccarioides),(Gracilaria_changii,Gracilaria_vermiculophylla)),
+(Halymenia_maculata,Rhodymenia_pseudopalmata)),Gelidium_vagum),Chondrus_crispus)),
+((((Corallina_chilensis,Corallina_officinalis),Synarthrophyton_patena) 'B(11.4, 13.6, 0, 0.025)' ,Sporolithon_durum) 'B(13.0, 60.4, 0, 0)' ,
+Rhodogorgon_sp)) 'B(42.7, 60.4)' ,Palmaria_palmata),
+((Bangia_fuscopurpurea,(Neopyropia_yezoensis,Wildemania_schizophylla)),(Porphyra_purpurea,Porphyra_umbilicalis) ) ) 'B(59.5, 189.1, 0, 0)' , 
+((Boldia_erythrosiphon,Compsopogon_caeruleus),(Erythrotrichia_carnea,Rhodochaete_parvula))),
+(((Chroodactylon_ornatum,Stylonema_alsidii),Porphyridium_purpureum),Rhodella_violacea)) , 
+
+(((Cyanidioschyzon_merolae,Cyanidium_caldarium),Gronococcus_sybilensis) ,
+
+((((Chroomonas_mesostigmatica,Cryptomonas_curvata),Guillardia_theta),Rhodomonas_salina),(((Emiliania_huxleyi,Isochrysis_galbana),Karlodinium_veneficum),
+Pavlova_sp) 'B(22.7, 189.1, 0, 0)' ))) 'B(103.3, 189.1, 0, 0 ) ', 
+
+((((Aureoumbra_lagunensis,Pelagomonas_sp),(Dictyocha_speculum,Pseudopedinella_elastica)),
+(((Conticribra_weissflogii,Thalassiosira_pseudonana),((Nitzschia_putrida,(Pseudo-nitzschia_delicatissima,Pseudo-nitzschia_pungens)),Ulnaria_acus)),
+Triparma_laevis) 'B(19.0, 350.0, 0, 0.0.25)'), 
+((((((Babesia_orientalis,((Haemoproteus_columbae,Plasmodium_malariae),Leucocytozoon_caulleryi)),Chromera_velia),Chromerida_sp), 
+(Characiopsis_acuta,Trachydiscus_minutus)),Mallomonas_splendens), ((Dictyopteris_divaricata,(Fucus_vesiculosus,Laminaria_digitata)) 'B(10.0, 189.1, 0, 0)'
+,Vacuolaria_virescens) 'B(22.8, 189.1, 0, 0)' ))),
+
+(((((((Auxenochlorella_protothecoides,Chlorella_vulgaris),(((Bigelowiella_natans,Partenskyella_glossopodia),Lotharella_vacuolata),
+((Bryopsis_plumosa,Ostreobium_quekettii),Halimeda_borneensis ) 'B(20.1, 189.1, 0.025, 0)' ) ) ,
+Tetraselmis_suecica),(Lepidodinium_chlorophorum,(Pedinomonas_minor,Pedinomonas_tuberculata))),
+((Chlamydomonas_reinhardtii,Pleodorina_starrii),((Desmodesmus_abundans,Tetradesmus_obliquus),Pediastrum_duplex))), 
+(((Cymbomonas_tetramitiformis,Pyramimonas_parkeae),(Euglena_gracilis,(Euglena_viridis,Monomorphina_aenigmatica))),
+
+(Mesostigma_viride,(Chara_vulgaris,(Spirogyra_maxima,(((Arabidopsis_thaliana,Zea_mays) 'B(12.6, 24.7, 0.025, 0)' ,Pinus_sylvestris) 'B(30.8, 36.6)' ,
+(Aneura_pinguis,(Adiantum_capillus-veneris,Dryopteris_decipiens) ) ) 'B(42.0, 45.1, 0.025, 0)' )) 'B(46.8, 189.1, 0, 0)' ))),
+
+(Prasinococcus_sp,Prasinoderma_coloniale))'B(94.0, 189.1, 0 , 0)') ,
+
+(Cyanophora_paradoxa,(Glaucocystis_incrassata,Gloeochaete_wittrockiana))),
+
+((Lyngbya_confervoides,Prochlorococcus_marinus),Cyanobacteriota_bacterium) )'B(156.1, 322.6, 0, 0.025)' ;
+
+
